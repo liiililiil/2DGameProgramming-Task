@@ -1,5 +1,5 @@
 # Github 웹 호스팅 게임
- [게임 URL 클릭]()
+ [게임 URL 클릭](https://liiililiil.github.io/2DGameProgramming-Task/)
 
 # 기획서
 ### 1. 제목, 장르
